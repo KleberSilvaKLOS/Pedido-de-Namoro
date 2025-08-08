@@ -1,4 +1,4 @@
-Projeto Simples de um pedido de namoro
-
-Projeto ficou famoso pelo Brasil inteiro através dos vídeos postado no instagram,
-e enrão resolvi fazer esse mini projeto para alegrar vcs!
+💖 Projeto Simples de Pedido de Namoro
+Esse projeto é uma recriação simples e divertida de um pedido de namoro.
+A ideia ficou famosa no Brasil inteiro através de vídeos publicados no Instagram,
+e por isso resolvi transformar em um mini projeto para alegrar vocês!
